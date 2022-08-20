@@ -1,0 +1,17 @@
+2463613324 deposit amount:30.0
+2463613324 deposit amount:30.0
+2463613324 deposit amount:35.0
+2463613324 account created time:2022-07-16 05:01:06.037
+4327287058 account created time:2022-07-16 17:29:05.586
+4327287058 deposit amount:30000.0
+7248355416 account created time:2022-07-16 17:30:31.288
+4327287058 transfer amount:10.06, transferred_account:7248355416
+4327287058 deposit amount:11.0
+4327287058 transfer amount:10.06, transferred_account:7248355416
+4327287058 transfer amount:175.0[USD] transferred_account:7248355416
+4327287058 transfer amount:180.0[TRY] transferred_account:7248355416
+2058194914 account created time:2022-07-16 18:42:16.01
+2058194914 deposit amount:100.0
+4290971870 account created time:2022-07-16 18:49:50.14
+2058194914 transfer amount:10.0[USD] transferred_account:4290971870
+3601249418 account created time:2022-07-23 02:38:27.84
